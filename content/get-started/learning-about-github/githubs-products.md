@@ -1,3 +1,4 @@
+![BeautyPlus_20210728015543774_save](https://user-images.githubusercontent.com/88061085/127231040-5db6f7c0-fe14-4d0e-992e-bf4d63680675.jpg)
 ---
 title: GitHub's products
 intro: 'An overview of {% data variables.product.prodname_dotcom %}''s products and pricing plans.'
